@@ -1,0 +1,51 @@
+# ==========================================
+# Intel Quartus generated files/directories
+# ==========================================
+
+**/db/
+**/incremental_db/
+**/output_files/
+
+# Compilation/programming outputs
+*.rpt
+*.summary
+*.smsg
+*.chg
+*.log
+*.done
+*.jdi
+*.pin
+*.pof
+*.sof
+
+# ==========================================
+# ModelSim / Quartus Simulation generated
+# ==========================================
+
+**/simulation/modelsim/
+**/simulation/qsim/
+
+*.vo
+*.vho
+*.sft
+*.xrf
+*.sdo
+*.wlf
+*.vcd
+*.do
+*.vt
+
+# ==========================================
+# Temporary / backup files
+# ==========================================
+
+*.bak
+*.temp
+*.qws
+
+# ==========================================
+# OS / Editor files
+# ==========================================
+
+.DS_Store
+Thumbs.db
